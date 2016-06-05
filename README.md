@@ -1,2 +1,2 @@
 # hello-world
-this repository is my first
+无聊
